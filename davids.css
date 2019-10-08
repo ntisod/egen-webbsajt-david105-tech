@@ -1,0 +1,42 @@
+@charset "utf8";
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 5;
+  background-color: black;
+  
+}
+
+header {
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+h1{
+  color: orange;
+}
+h2{
+  color: orange;
+  text-align: center;
+}
+h3{
+  color: orange;
+}
+p{
+  color: orange;
+}
+
+li{
+  color: orange;
+  text-decoration: none;
+}
+li a{
+  color: orange;
+  text-decoration: none;
+}
+.center {
+  display: block;
+  margin-left: auto;
+}
